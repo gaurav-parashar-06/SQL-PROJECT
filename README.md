@@ -9,7 +9,7 @@ Database Normalization & Schema Design
 Joins, Aggregations, CTEs, Subqueries
 Data Analysis & Business Intelligence
 
-📊 Database Schema
+📊 Database Schema :
 The database schema used in this project is attached.
 
 📜 SQL Queries & Analysis
