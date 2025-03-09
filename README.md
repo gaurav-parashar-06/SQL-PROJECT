@@ -1,10 +1,10 @@
-Music Store Data Analysis – SQL only Project 
+Music Store Data Analysis – SQL only Project by GAURAV PARASHAR
 
-📌 Overview
+📌 Overview :
 This project is an SQL-based analysis of a music store database. The goal is to extract business insights using SQL queries. The database contains information about customers, invoices, tracks, artists, employees, and playlists.
 
-⚙️ Tech Stack Used
-SQL (PostgreSQL / MySQL / SQLite)
+⚙️ Tech Stack Used :
+SQL (PostgreSQL) - 
 Database Normalization & Schema Design
 Joins, Aggregations, CTEs, Subqueries
 Data Analysis & Business Intelligence
@@ -13,4 +13,4 @@ Data Analysis & Business Intelligence
 The database schema used in this project is attached.
 
 📜 SQL Queries & Analysis
-I have included a collection of SQL queries to answer key business questions. You can find them in the Query.sql file.
+I have included a collection of SQL queries to answer key business questions.
